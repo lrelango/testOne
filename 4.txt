@@ -1,3 +1,0 @@
-this is a new line added.
-and also i will add one more new line
-I am addit new line after staging the file.
