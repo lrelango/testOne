@@ -1,4 +1,0 @@
-This is another sample file adding to git repor
-hi
-hello
-master
